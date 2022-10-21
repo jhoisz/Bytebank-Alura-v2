@@ -1,4 +1,4 @@
-<h1 align="center"> :moneybag: bytebank 2️⃣  </h1>
+<h1 align="center"> bytebank 2️⃣: App com armazenamento interno  </h1>
 
 ## ℹ️ Sobre o projeto
 Aplicação **mobile** desenvolvida durante o curso [Persistência com Flutter: crie um app com armazenamento interno](https://cursos.alura.com.br/course/flutter-persistencia-interna) de Flutter, na plataforma **[Alura](https://www.alura.com.br/)**, pelo instrutor [Alex Felipe](https://cursos.alura.com.br/user/alexfelipe). 
@@ -33,8 +33,8 @@ Primeiro você deve [instalar flutter](https://docs.flutter.dev/get-started/inst
 Então, você pode clocar e entrar na pasta do projeto:
 
 ```bash
-git clone https://github.com/jhoisz/Bytebank-Alura-v2
-cd Bytebank-Alura-v2
+git clone https://github.com/jhoisz/Bytebank_Sqflite
+cd Bytebank_Sqflite
 ```
 
 Agora, para testar, você deve instalar os pacotes/dependêncas e usar um dispositivo conectado ao seu computador ou usar um emulador:
