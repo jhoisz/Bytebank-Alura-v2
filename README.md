@@ -1,4 +1,4 @@
-<h1 align="center"> bytebank 2️⃣: App com armazenamento interno  </h1>
+<h1 align="center"> Bytebank 2️⃣: App com armazenamento interno  </h1>
 
 ## ℹ️ Sobre o projeto
 Aplicação **mobile** desenvolvida durante o curso [Persistência com Flutter: crie um app com armazenamento interno](https://cursos.alura.com.br/course/flutter-persistencia-interna) de Flutter, na plataforma **[Alura](https://www.alura.com.br/)**, pelo instrutor [Alex Felipe](https://cursos.alura.com.br/user/alexfelipe). 
